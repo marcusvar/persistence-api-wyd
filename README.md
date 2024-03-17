@@ -12,5 +12,5 @@ Obs: the data is persisted by files with filesystem stream.
 
 ## Build project and execute
 
-npm run build 
-npm run start:prod
+- npm run build 
+- npm run start:prod
